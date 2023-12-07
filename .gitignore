@@ -1,0 +1,31 @@
+
+# Arquivos de build
+*.build/
+
+# Arquivos de cache
+node_modules/
+**/node_modules/
+
+# Arquivos de configuração
+*.env
+**/.env
+
+# Arquivos de log
+logs/
+**/logs/
+
+# Arquivos temporários
+*.tmp
+**/.tmp
+
+# Arquivos de depuração
+*.dSYM
+**/.dSYM
+
+# Arquivos de licença
+LICENSE
+**/LICENSE
+
+# Arquivos de README
+README.md
+**/README.md
